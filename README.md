@@ -3,7 +3,7 @@ The current project is creating a dead simple recipes website with basic HTML el
 
 # Skills
 The following skills are needed in order to complete the project:
-- Basic HTML elements such as Paragraphs, headers, lists, links, and images.
+- Basic HTML elements such as paragraphs, headers, lists, links, and images.
 - Basic git workflow such as cloning, staging, committing, and pushing.
 
 # About
