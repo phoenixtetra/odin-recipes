@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, "Noto Sans", sans-serif;
+}
+
+body {
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  color: #bac2de;
+}
+
+h3 {
+  color: #a6adc8;
+}
+
+p {
+  font-size: 16px;
+  color: #6c7086;
+}
+
+li {
+  color: #a6adc8;
+}
+
+a {
+  color: #89b4fa;
+}
